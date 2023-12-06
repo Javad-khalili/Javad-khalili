@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Javad-khalili
-- 👀 I’m interested in Image processing, Machine learning, Python programming, CryptoCurrency ,...
-- 🌱 I’m currently learning Image processing at University 
-- 💞️ I’m looking to collaborate on Python Programming
+- 👀 I’m interested in Python programming, Image processing, Machine learning, Deep learning
+- 🌱 I’m currently working on Deep learning by PyTorch 
 - 📫 You can reach me by mailing me at m.javadkhalili@outlook.com
 
 <!---
